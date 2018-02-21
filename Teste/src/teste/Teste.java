@@ -2,5 +2,5 @@ package teste;
 
 public class Teste {
 	private int num;
-	private double num2;
+	private double num2;  //comentário aqui
 }
